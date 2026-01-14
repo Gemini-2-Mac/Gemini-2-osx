@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/gemini2">   
+<a href="https://top-ssilka-apps.github.io/.github/gemini2">   
 <img src="https://img.shields.io/badge/💻_GET_Gemini_2-purple?style=for-the-badge&logo=apple" alt="GET Gemini 2">  
 </a>  
 </div>  
